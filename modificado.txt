@@ -1,0 +1,18 @@
+[
+	{
+		"title": "Res",
+		"price": "450",
+		"thumbnail": "www.unadireccion.com/vaca.png"
+	},
+	{
+		"title": "Pollo",
+		"price": "350",
+		"thumbnail": "www.unadireccion.com/Pollo.png"
+	},
+	{
+		"title": "Pescado",
+		"price": 530,
+		"thumbnail": "www.unadireccion.com/pescado.png",
+		"id": 3
+	}
+]
